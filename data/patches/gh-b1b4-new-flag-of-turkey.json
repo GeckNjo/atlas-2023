@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "New Flag of Turkey",
+	"description": "Stegi, Papaplatte, xQc and Mizkif oveerdraw the Flag of Turkey with Spongebob characters.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/stegi",
+			"https://www.twitch.tv/papaplatte",
+			"https://www.twitch.tv/xqc",
+			"https://www.twitch.tv/mizkif"
+		]
+	},
+	"path": {
+		"212": [
+			[
+				-365,
+				291
+			],
+			[
+				-366,
+				446
+			],
+			[
+				-170,
+				443
+			],
+			[
+				-166,
+				288
+			],
+			[
+				-268,
+				291
+			]
+		]
+	},
+	"center": {
+		"212": [
+			-289,
+			368
+		]
+	}
+}
